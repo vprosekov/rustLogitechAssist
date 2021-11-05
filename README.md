@@ -4,6 +4,7 @@ Pack of NoRecoil scripts for logitech mouse to assist recoil in RUST
   - Resolution 1280x720
   - 800 DPI
   - fov 90
+  - 0.2 sensitivity
 
 # How to use?
   - Press mouse5 to activate profile
@@ -12,9 +13,12 @@ Pack of NoRecoil scripts for logitech mouse to assist recoil in RUST
 # Holo
 # 8x
 # 16x
+# Beretta
+# Thompson
+# UMP
 
 # How to install?
-  - asdasd
+  - you smart and can do it yourself
 License
 ----
 MIT License
