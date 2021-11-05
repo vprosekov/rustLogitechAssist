@@ -3,7 +3,7 @@ Pack of NoRecoil scripts for logitech mouse to assist recoil in RUST
 ### Needs of game
   - Resolution 1280x720
   - 800 DPI
-  - fov 90
+  - fov 75
   - 0.2 sensitivity
 
 # How to use?
